@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=MSI Control
+Comment=Switch MSI scenarios and cooler boost
+Exec=msi-ctl-gui
+Icon=msi-ctl
+Terminal=false
+Type=Application
+Categories=Utility;System;
