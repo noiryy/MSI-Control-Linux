@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/msi-ctl.svg</file>
+    </qresource>
+</RCC>
