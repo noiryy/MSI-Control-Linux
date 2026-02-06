@@ -10,6 +10,10 @@ toggling cooler boost.
 - Toggle cooler boost with a single button.
 - Dark/light gradient themes and rounded buttons.
 
+## Dependencies
+
+ - [msi-ec](https://github.com/BeardOverflow/msi-ec)
+
 ## How to access the MSI embedded controller
 
 The MSI embedded controller is exposed through sysfs. The app uses the same paths your driver exposes:
